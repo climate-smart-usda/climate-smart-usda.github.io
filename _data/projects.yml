@@ -1,14 +1,29 @@
 - title: USDM Archive
-  description: Explore weekly drought maps as GeoParquet files with metadata.
+  description: Explore weekly drought maps as GeoParquet files with detailed metadata.
   link: https://climate-smart-usda.github.io/usdm
-  image: /assets/usdm-thumbnail.png
+  image: /usdm/README_files/figure-gfm/example-1.png
 
-- title: AgMonitor Dashboard
-  description: Visualize agricultural drought conditions across the U.S.
-  link: https://climate-smart-usda.github.io/agmonitor
-  image: /assets/agmonitor-thumbnail.png
+- title: FSA Normal Grazing Periods
+  description: Official county-level normal grazing period definitions from the USDA Farm Service Agency.
+  link: https://climate-smart-usda.github.io/fsa-normal-grazing-period
+  image: /assets/fsa-normal-grazing-period.png
 
-- title: API Explorer
-  description: Browse and query the USDA Climate-Smart APIs for live data access.
-  link: https://climate-smart-usda.github.io/api-explorer
-  image: /assets/api-thumbnail.png
+- title: Livestock Forage Program Eligibility
+  description: Annual county-level eligibility data for the Livestock Forage Disaster Program (LFP).
+  link: https://climate-smart-usda.github.io/fsa-lfp-eligibility
+  image: /assets/fsa-lfp-eligibility.png
+
+- title: The FSA_Counties_dd17 dataset
+  description: An archival copy of the FSA_Counties_dd17 dataset, originally distributed by the U.S. Department of Agriculture (USDA) Farm Service Agency (FSA) as part of the Common Land Unit (CLU) geospatial data series.
+  link: https://climate-smart-usda.github.io/fsa-counties-dd17
+  image: /assets/fsa-counties-dd17.png
+
+- title: FSA Farm Payment Files, 2004–2024
+  description: An archive of the Farm Service Agency Farm Payment Files from 2004–2024, available in Parquet format.
+  link: https://climate-smart-usda.github.io/fsa-payment-files
+  image: /assets/fsa-payment-files.png
+  
+- title: NAP-190 Normal Grazing Periods
+  description: "A reanalysis of FSA Normal Grazing Periods using data from NOAA's NClimGrid daily gridded weather dataset."
+  link: https://climate-smart-usda.github.io/nclimgrid-normal-grazing-period
+  image: /assets/nclimgrid-normal-grazing-period.png
