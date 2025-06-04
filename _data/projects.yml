@@ -1,0 +1,14 @@
+- title: USDM Archive
+  description: Explore weekly drought maps as GeoParquet files with metadata.
+  link: https://climate-smart-usda.github.io/usdm
+  image: /assets/usdm-thumbnail.png
+
+- title: AgMonitor Dashboard
+  description: Visualize agricultural drought conditions across the U.S.
+  link: https://climate-smart-usda.github.io/agmonitor
+  image: /assets/agmonitor-thumbnail.png
+
+- title: API Explorer
+  description: Browse and query the USDA Climate-Smart APIs for live data access.
+  link: https://climate-smart-usda.github.io/api-explorer
+  image: /assets/api-thumbnail.png
