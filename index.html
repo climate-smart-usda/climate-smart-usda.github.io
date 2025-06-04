@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Climate-Smart USDA Projects</title>
   <style>
     body {
@@ -13,27 +13,39 @@
     }
     h1 {
       text-align: center;
+      margin-bottom: 1.5em;
     }
     .grid {
       display: flex;
       flex-wrap: wrap;
-      gap: 1rem;
+      gap: 1.5rem;
       justify-content: center;
     }
     .card {
       background: white;
       border: 1px solid #ddd;
       border-radius: 10px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
       width: 300px;
       padding: 1em;
       text-align: center;
-      transition: transform 0.2s;
+      transition: transform 0.2s ease-in-out;
     }
     .card:hover {
       transform: scale(1.02);
     }
+    .card img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+      margin-bottom: 0.75em;
+    }
+    .card h2 {
+      margin: 0.5em 0 0.25em;
+    }
     .card a {
+      display: inline-block;
+      margin-top: 0.5em;
       text-decoration: none;
       color: #007acc;
       font-weight: bold;
@@ -43,18 +55,30 @@
 <body>
   <h1>🌿 Climate-Smart USDA Projects</h1>
   <div class="grid">
-    <!-- Replace/add cards as needed -->
+
     <div class="card">
+      <img src="https://climate-smart-usda.github.io/usdm/README_files/figure-gfm/example-1.png " alt="USDM Archive Preview">
       <h2>USDM Archive</h2>
-      <p>Explore weekly drought maps.</p>
+      <p>Explore weekly drought maps as GeoParquet files with metadata.</p>
       <a href="https://climate-smart-usda.github.io/usdm">View Project →</a>
     </div>
+
     <div class="card">
+      <img src="https://climate-smart-usda.github.io/assets/agmonitor-thumbnail.png" alt="AgMonitor Preview">
       <h2>AgMonitor Dashboard</h2>
-      <p>Interactive ag-climate visualization.</p>
+      <p>Visualize agricultural drought conditions across the U.S.</p>
       <a href="https://climate-smart-usda.github.io/agmonitor">View Project →</a>
     </div>
+
+    <div class="card">
+      <img src="https://climate-smart-usda.github.io/assets/api-thumbnail.png" alt="API Explorer Preview">
+      <h2>API Explorer</h2>
+      <p>Browse and query the USDA Climate-Smart APIs for live data access.</p>
+      <a href="https://climate-smart-usda.github.io/api-explorer">View Project →</a>
+    </div>
+
     <!-- Add more cards here -->
+
   </div>
 </body>
 </html>
