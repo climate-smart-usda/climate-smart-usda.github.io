@@ -1,4 +1,4 @@
-- title: "USDM Archive<br> "
+- title: "USDM Archive<br>&nbsp;"
   description: Weekly US Drought Monitor (USDM) data archived as GeoParquet files with detailed metadata.
   link: https://climate-smart-usda.github.io/usdm
   image: /usdm/example-1.png
@@ -14,7 +14,7 @@
   image: /fsa-normal-grazing-period/example-1.png
 
 - title: Livestock Forage Program Eligibility
-  description: Official county-level eligibility data for the Livestock Forage Disaster Program (LFP) from the USDA Farm Service Agency, 2008–2024.
+  description: Official county-level eligibility data for the Livestock Forage Program from the USDA Farm Service Agency, 2008–2024.
   link: https://climate-smart-usda.github.io/fsa-lfp-eligibility
   image: /fsa-lfp-eligibility/example-1.png
 
