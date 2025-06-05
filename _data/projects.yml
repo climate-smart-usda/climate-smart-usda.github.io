@@ -1,5 +1,5 @@
 - title: USDM Archive
-  description: Explore weekly drought maps as GeoParquet files with detailed metadata.
+  description: Weekly US Drought Monitor (USDM) data archived as GeoParquet files with detailed metadata.
   link: https://climate-smart-usda.github.io/usdm
   image: /usdm/example-1.png
 
@@ -11,7 +11,7 @@
 - title: FSA Normal Grazing Periods
   description: Official county-level normal grazing period definitions from the USDA Farm Service Agency.
   link: https://climate-smart-usda.github.io/fsa-normal-grazing-period
-  image: /assets/fsa-normal-grazing-period.png
+  image: /fsa-normal-grazing-period/example-1.png
 
 - title: Livestock Forage Program Eligibility
   description: Annual county-level eligibility data for the Livestock Forage Disaster Program (LFP).
