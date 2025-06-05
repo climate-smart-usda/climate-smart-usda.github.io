@@ -1,34 +1,34 @@
-- title: "USDM Archive<br>&nbsp;"
+- title: "ARCHIVE<br>US Drought Monitor"
   description: Weekly US Drought Monitor (USDM) data archived as GeoParquet files with detailed metadata.
   link: https://climate-smart-usda.github.io/usdm
   image: /usdm/example-1.png
 
-- title: USDM County Aggregations
+- title: "DERIVED DATA<br>USDM County Aggregations"
   description: Weekly US Drought Monitor (USDM) data aggregated to US Census county boundaries.
   link: https://climate-smart-usda.github.io/usdm-counties
   image: /usdm-counties/example-1.png
 
-- title: FSA Normal Grazing Periods
+- title: "FOIA ARCHIVE<br>FSA Normal Grazing Periods"
   description: Official county-level normal grazing period definitions from the USDA Farm Service Agency, 2008–2024.
   link: https://climate-smart-usda.github.io/fsa-normal-grazing-period
   image: /fsa-normal-grazing-period/example-1.png
 
-- title: Livestock Forage Program Eligibility
+- title: "FOIA ARCHIVE<br>Livestock Forage Program Eligibility"
   description: Official county-level eligibility data for the Livestock Forage Program from the USDA Farm Service Agency, 2008–2024.
   link: https://climate-smart-usda.github.io/fsa-lfp-eligibility
   image: /fsa-lfp-eligibility/example-1.png
 
-- title: FSA_Counties_dd17 Boundary Dataset
+- title: "ARCHIVE<br>FSA_Counties_dd17 Boundary Dataset"
   description: An archive of the FSA_Counties_dd17 dataset, originally distributed by the USDA Farm Service Agency.
   link: https://climate-smart-usda.github.io/fsa-counties-dd17
   image: /fsa-counties-dd17/example-1.png
 
-- title: FSA Farm Payment Files, 2004–2024
+- title: "ARCHIVE<br>FSA Farm Payment Files, 2004–2024"
   description: Official farm payment files from the USDA Farm Service Agency, 2004–2024, available in Parquet format.
   link: https://climate-smart-usda.github.io/fsa-payment-files
   image: /fsa-payment-files/example-1.png
   
-- title: NAP-190 Normal Grazing Periods
+- title: "REANALYSIS<br>NAP-190 Normal Grazing Periods"
   description: "A reanalysis of FSA NAP-190 Normal Grazing Periods using data from NOAA's NClimGrid daily gridded weather dataset."
   link: https://climate-smart-usda.github.io/nclimgrid-normal-grazing-period
   image: /assets/nclimgrid-normal-grazing-period.png
