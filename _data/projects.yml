@@ -38,4 +38,4 @@
   type: REANALYSIS
   description: "A reanalysis of FSA NAP-190 Normal Grazing Periods using data from NOAA's NClimGrid daily gridded weather dataset."
   link: https://climate-smart-usda.github.io/nclimgrid-normal-grazing-period
-  image: /assets/nclimgrid-normal-grazing-period.png
+  image: /nclimgrid-normal-grazing-period/nclimgrid-normal-grazing-period.png
