@@ -1,12 +1,12 @@
 - title: USDM Archive
   description: Explore weekly drought maps as GeoParquet files with detailed metadata.
   link: https://climate-smart-usda.github.io/usdm
-  image: /usdm/README_files/figure-gfm/example-1.png
+  image: /usdm/example-1.png
 
 - title: USDM County Aggregations
   description: Weekly US Drought Monitor (USDM) data aggregated to US Census county boundaries.
   link: https://climate-smart-usda.github.io/usdm-counties
-  image: /assets/usdm-counties.png
+  image: /usdm-counties/example-1.png
 
 - title: FSA Normal Grazing Periods
   description: Official county-level normal grazing period definitions from the USDA Farm Service Agency.
